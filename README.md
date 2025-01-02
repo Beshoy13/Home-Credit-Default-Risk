@@ -6,7 +6,7 @@ Predicting Home Credit Default Risk using XGBoost to assess loan repayment abili
 
 1. **Clone the repository**:
 ```markdown
-   git clone https://github.com/yourusername/Home-Credit-Default-Risk.git
+   git clone https://github.com/Beshoy13/Home-Credit-Default-Risk.git
    cd Home-Credit-Default-Risk
    ```
 
